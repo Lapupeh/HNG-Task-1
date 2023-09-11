@@ -12,10 +12,13 @@ img {
 
 }
 
-p {
+p , a{
+    display: block;
+    align-items: center;
     text-align: center;
     font-size: 30px;
     font-weight: bold;
+    
 }
 span {
     display: block;
